@@ -1,0 +1,7 @@
+extension
+markdown preview github
+live server
+
+signo de admiracion hacia abajo mas la tecla de tabulacion, muestra la estructura basica de html
+
+body se coloca debajo de la etiqueta head
