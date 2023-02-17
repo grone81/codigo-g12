@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.main {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%);
+    width: 340px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+img {
+    padding: 5px;
+    border-radius: 5%;
+}
+
+h4 {
+    width: 290px;
+    margin: left;
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 18px;
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    margin-bottom: 10px;
+    padding-left: 20px
+}
+
+.equi {
+    color: hsl(215, 51%, 70%);
+    font-weight: 14px;
+    line-height: 1.5;
+    text-align: left;
+    padding-left: 20px;
+
+}
+
+/* .contenedor1 {
+    position: relative;
+    bottom: 30px;
+
+} */
+
+.eticon {
+    font-size: 12px;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 15px;
+    padding-top: 0px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    /* margin-left: -50px;
+    margin-left: -50px;
+    justify-content: left; */
+
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-size: 12px;
+    margin-top: 15px;
+    left: 55px;
+    bottom: 30px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    /* font-weight: 14px;
+    margin-left: 10px;
+    position: relative;
+    top: auto;
+    bottom: 3px;
+    left: 1px; */
+
+}
+
+.clock {
+    font-size: 12px;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 15px;
+    padding-top: 0px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.time {
+    color: hsl(215, 51%, 70%);
+    font-size: 12px;
+    margin-top: 15px;
+    right: 10px;
+    bottom: 30px;
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 10px;
+
+    /* color: hsl(215, 51%, 70%);
+    font-weight: 14px;
+    line-height: 1.5;
+    text-align: right;
+    padding-right: 20px;
+    float: right; */
+}
+
+hr {
+    border: none;
+    background-color: hsl(215, 51%, 70%);
+    min-height: 1px;
+    margin: 10px auto;
+    width: 90%;
+    bottom: 240px;
+}
+
+.avatar {
+    font-size: 12px;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 15px;
+    padding-top: 0px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+}
+
+.creation {
+    color: hsl(215, 51%, 70%);
+    font-size: 12px;
+    margin-top: 15px;
+    left: 55px;
+    bottom: 30px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
